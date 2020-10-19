@@ -1,8 +1,8 @@
 # helloWorldPython
 
-print hello world using python v3
+print hello world using python v.3
 
-//tools: text editor (Atom,notpad++...)+terminal
+//tools: text editor (Atom,notepad++...)+terminal
 
 Step1:open Atome ( for example)
 
